@@ -213,6 +213,10 @@ table td {
   border: 1px solid #e8e8e8;
 }
 
+h2 {
+  text-align: center;
+}
+
 /**
  * Site header
  */
