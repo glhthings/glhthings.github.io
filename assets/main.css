@@ -114,6 +114,7 @@ h2 {
 
 h3 {
   margin-left: 5px;
+  text-align: center;
 }
 
 /**
@@ -330,6 +331,11 @@ input:focus {
   right: -5px;
 }
 
+.youtube-video {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
 /**
  * Site header
  */
@@ -348,7 +354,7 @@ input:focus {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: #424242;
+  color: #60c8ff;
 }
 
 .site-nav {
