@@ -103,7 +103,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   text-align: center;
-  text-transform: uppercase;
   letter-spacing: 3px;
 }
 
@@ -331,11 +330,6 @@ input:focus {
   right: -5px;
 }
 
-.youtube-video {
-  aspect-ratio: 16/9;
-  width: 100%;
-}
-
 /**
  * Site header
  */
@@ -550,7 +544,6 @@ a.page-link-flag:active {
 
 .post-title {
   font-size: 38.8px;
-  text-transform: lowercase;
   letter-spacing: 3px;
   line-height: 1;
 }
